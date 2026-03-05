@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Redireciona todas as requisições que não são para um arquivo ou pasta existente
+# para o seu script principal (se você usar um roteador) ou apenas normaliza
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]
+
+# Garante que o cabeçalho de autorização (se usado no futuro) seja passado
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]

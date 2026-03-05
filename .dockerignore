@@ -1,0 +1,16 @@
+# Arquivos e pastas do Git
+.git
+.gitignore
+
+# Arquivos do Docker e de configuração local
+Dockerfile
+docker-compose.yml
+.dockerignore
+.env
+
+# Dependências que são instaladas dentro do container
+vendor/
+node_modules/
+
+# Logs e arquivos de cache
+*.log

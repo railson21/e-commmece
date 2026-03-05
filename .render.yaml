@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: raspadinhas
+    env: php
+    plan: free
+    repo: https://github.com/notfakeluccas/raspadinhas
+    branch: main
+    buildCommand: composer install
+    startCommand: vendor/bin/heroku-php-apache2 public/
+    healthCheckPath: /

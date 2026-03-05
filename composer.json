@@ -1,0 +1,22 @@
+{
+    "name": "pichau/e-commerce-jota",
+    "autoload": {
+        "psr-4": {
+            "Pichau\\ECommerceJota\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lafstech",
+            "email": "pagamentocraxsrat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^12.4"
+    },
+    "require": {
+        "hardsystem/correios-lib": "^1.2"
+    }
+}

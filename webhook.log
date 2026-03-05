@@ -1,0 +1,81 @@
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"fc3f2bf9ef5435394f09mh3u3gf65d34","external_id":"6","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-23 16:47:56","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 6. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 6 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 6 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"3a5a1f38b3c984001969mh3un02k33fw","external_id":"8","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-23 17:03:37","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 8. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 8 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 8 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"551ce7f9e8b0f3cb3794mh3uyefa3iwk","external_id":"9","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-23 17:12:03","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 9. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 9 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 9 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"ecdac949461a4d32e69amh3wxeej4moa","external_id":"10","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-23 18:07:53","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 10. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 10 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 10 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"4b92bb04e1e7744083f4mhe6tar45mxx","external_id":"27","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-30 22:41:47","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 27. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 27 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 27 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"361ca6a2da4d4d5ba1ccmhe72lmn3jge","external_id":"28","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-30 22:49:04","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 28. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 28 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 28 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"8ebad79f9779f93cce67mhfbgl1m5ojt","external_id":"40","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 17:39:32","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 40. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 40 atualizado para APROVADO.
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"4b39ecd3d46a99703619mhfbksan4cha","external_id":"41","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 17:42:41","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 41. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 41 atualizado para APROVADO.
+Webhook PixUp: Pedido ID 41 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"23b583ae3694a395e403mhfbpaxdwohd","external_id":"42","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 17:46:17","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 42. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 42 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #42) enviado com sucesso.
+Webhook PixUp: Pedido ID 42 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"99ef40628ba9a5f26afamhfc2qwr17ut","external_id":"43","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 17:56:38","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 43. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 43 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #43) enviado com sucesso.
+Webhook PixUp: Pedido ID 43 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"92b75cf8b49df83abe75mhfc9n4r2pug","external_id":"44","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 18:02:03","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 44. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 44 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #44) enviado com sucesso.
+Webhook PixUp: Pedido ID 44 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"2e587f7ffa873df287b0mhfcgco44v7r","external_id":"45","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 18:07:15","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 45. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 45 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #45) enviado com sucesso.
+Webhook PixUp: Pedido ID 45 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"c11822f771757a278d58mhfd4hsqnqz0","external_id":"46","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 18:26:12","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 46. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 46 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #46) enviado com sucesso.
+Webhook PixUp: Pedido ID 46 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"7beef862b69e44965609mhfda1264s7o","external_id":"47","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 18:30:17","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 47. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 47 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #47) enviado com sucesso.
+Webhook PixUp: Pedido ID 47 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"38a8afc7e352156addb7mhfdju4k340y","external_id":"48","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-10-31 18:38:06","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs1@gmail.com","taxId":"09317614094"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 48. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 48 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #48) enviado com sucesso.
+Webhook PixUp: Pedido ID 48 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"ee8fc133d0564ede900cmhfq5kq5o8b3","external_id":"49","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-11-01 00:31:03","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatobittec@gmail.com","taxId":"47330293814"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 49. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 49 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #49) enviado com sucesso.
+Webhook PixUp: Pedido ID 49 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"8ba69d3698e28b16ecbemhfqegq2vjdh","external_id":"50","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-11-01 00:37:55","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatobittec@gmail.com","taxId":"47330293814"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 50. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 50 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #50) enviado com sucesso.
+Webhook PixUp: Pedido ID 50 processado com SUCESSO!
+Webhook PixUp: Payload recebido: {"requestBody":{"transactionType":"RECEIVEPIX","transactionId":"03416d3a5b76717ed4cfmhji9kugob1t","external_id":"58","amount":1,"paymentType":"PIX","status":"PAID","dateApproval":"2025-11-03 16:01:18","creditParty":{"name":"Lucas Almeida Ferreira dos Santos","email":"contatolucasafs@gmail.com","taxId":"47330290807"},"debitParty":{"bank":"PIXUP SOLUCOES DE PAGAMENTOS LTDA","taxId":"59.667.922\/0001-08"}}}
+Webhook PixUp: Pagamento CONFIRMADO para o pedido ID: 58. Iniciando processamento.
+Webhook PixUp: Status do pedido ID 58 atualizado para APROVADO.
+Webhook PixUp: E-mail de confirmação (Pedido #58) enviado com sucesso.
+Webhook PixUp: Pedido ID 58 processado com SUCESSO!
